@@ -21,7 +21,6 @@ The transformed data is stored in a new CSV file named 'output.csv'. It includes
 ## Repository Structure
 - **input.csv**: The original dataset file.
 - **output.csv**: The transformed data file.
-- **script.py**: Python script for data transformation.
 - **README.md**: This file, providing an overview of the project and documentation. See attached documentation for more details.
 
 ## Google ColabYou can also run this transformation process in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gA72qtUEPAVmo3OYq9Y0F5oG0mpid8pq?usp=sharing)
