@@ -1,4 +1,6 @@
 # Survey Response Analysis
+![Heatmap](heatmap.png)
+
 
 This project involves the analysis of survey response data to provide useful insights to the HR leader for action.
 
